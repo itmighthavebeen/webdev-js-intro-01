@@ -13,7 +13,7 @@ import {EDINBURGH_UNIV_MASCOT,
  const RANK_OF_GLASGOW_WORLD = 78;         //a number a wee bigger const
  const RANK_OF_GLASGOW_EU = 14;               //yet another number const
  const MUNRO = 282;
- const SCOTLAND_HOME = true;*/
+ const SCOTLAND_HOME = true;
 console.log(MUNRO);
 
 
@@ -30,13 +30,13 @@ number_Climbed == number_Climbed + munros;
 /*this statement outputted this:
 number_Climbed = number_Climbed + munros;
 
-Number Climbed: 1Ben Lomond,Ben Nevis,Schiehallion,Sgùrr na Banachdaich */
+Number Climbed: 1Ben Lomond,Ben Nevis,Schiehallion,Sgùrr na Banachdaich 
 
 street = 9.0;               //why is this not erroring?
 
-/*MUNRO++;
+MUNRO++;
 this was the error: 
-<anonymous> @ c:\Users\cramsey\Documents\Projects\webdev-js-intro-01\js\index.js:27:6 because you can't update a constant*/
+<anonymous> @ c:\Users\cramsey\Documents\Projects\webdev-js-intro-01\js\index.js:27:6 because you can't update a constant*
 
 console.log ("hello, trying out the variables");
 
@@ -47,5 +47,5 @@ console.log("\nIs Scotland Home:", SCOTLAND_HOME);
 console.log("\nCool Mountains:", munros);
 console.log("\nstreet to catch train:", street);
 console.log("\nMasoct is:",EDINBURGH_UNIV_MASCOT);
-console.log("World Ranking:",RANK_OF_EDINBURGH_WORLD);
-}
+console.log("World Ranking:",RANK_OF_EDINBURGH_WORLD); 
+}*/
